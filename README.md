@@ -38,16 +38,16 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 </p> 
 <p align="center">Let’s turn your ideas into reality!</p>
 
-<div align="center">
-  <a href="mailto" > 
+<p align="center">
+  <a href="mailto:franklynxchill@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 
-<a href="" > 
+<a align="center" href="https://www.frontendmentor.io/profile/franklynxchill"> 
   
 ![Static Badge](https://img.shields.io/badge/frontendmentor-badge?style=for-the-badge&logo=frontendmentor&logoColor=white&color=%233F54A3)
 </a>
-</div>
+</p>
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklynxchill&" alt="franklynxchill" /></p>
