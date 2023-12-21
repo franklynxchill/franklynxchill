@@ -1,5 +1,5 @@
 # Hi , I’m Franklin Onyenechere 👋 
-<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&height=90&lines=I'm+Franklin+Onyenechere;Front-End+Developer.;Actiive+Learner+and+Researcher" alt="Typing SVG" /></a></div>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&height=90&lines=I'm+Franklin+Onyenechere..♥️; Passionate+Front-End+Developer.;Actiive+Learner+and+Researcher" alt="Typing SVG" /></a></div>
 
 ## 💫 About Me:
 Hello, and welcome to my GitHub profile! My name is Franklin Onyenechere, and I am a front-end developer. 
@@ -91,16 +91,17 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 
 # 
 <details> 
-<summary> <b>Github Trophies</b> </summary>
+<summary> <b>🏆Github Trophies</b> </summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklynxchill" alt="franklynxchill" /></a> </p>
 </details>
 
 <details> 
-<summary> <b>Github Public Stats</b> </summary>
+<summary> <b>⚡Github Public Stats</b> </summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynxchill&show_icons=true&locale=en&layout=compact" alt="franklynxchill" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklynxchill&show_icons=true&locale=en" alt="franklynxchill" /></p>
 </details>
 
-<p align="center"><a href="https://www.buymeacoffee.com/franklynxcj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="franklynxcj" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/franklynxcj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="franklynxcj" /></a></p><br>
+<p align="center">Show ♥️</p>
