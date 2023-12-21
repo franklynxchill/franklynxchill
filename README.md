@@ -40,13 +40,11 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 
 <p align="center">
   <a href="mailto:franklynxchill@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
-
-<a align="center" href="https://www.frontendmentor.io/profile/franklynxchill"> 
-  
-![Static Badge](https://img.shields.io/badge/frontendmentor-badge?style=for-the-badge&logo=frontendmentor&logoColor=white&color=%233F54A3)
-</a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a href="https://www.frontendmentor.io/profile/franklynxchill">
+  <img alt="frontendmentor" src="https://img.shields.io/badge/Frontendmento%20-badge%20?style=for-the-badge&logo=frontendmentor&color=%233F54A3">
+  </a>
 </p>
 
 <div align="center">
