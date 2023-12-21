@@ -5,7 +5,7 @@
 Hello, and welcome to my GitHub profile! My name is Franklin Onyenechere, and I am a front-end developer. 
 I have a strong focus on creating visually appealing and user-friendly websites. I blend my technical expertise with a touch of creativity to deliver exceptional online experiences. Whether it’s crafting elegant interfaces or optimizing code for seamless performance, I bring the same dedication and attention to detail to my work.
 <br>
-<img align="right" alt="coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149">
+<img align="right" alt="coding" width="400" src="coding.gif">
 
 My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 I encourage you to take a look at my work on Frontend Mentor, where I have completed several design challenges to showcase my abilities. 
