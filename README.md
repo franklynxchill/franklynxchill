@@ -13,7 +13,7 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 <ul>
 <li>🔭 I’m currently working on Myself</li>
 <li>🌱 I’m currently working on becoming a Full Stack Developer. </li>
-<li>⚡ Fun fact: I have Bachelor’s Degree in accountancy, I’m a digital marketer. I love photography and watching shows. </li>
+<li>⚡ Fun fact: I have Bachelor’s Degree in accountancy, I’m a digital marketer, i love photography and watching shows. </li>
 <li>📫 How to reach me: franklynxchill@gmail.com</li>
 </ul>
 
@@ -29,6 +29,8 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 <li> 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others. </li>
 <li> 🤝 I have provided feedback on projects on Frontend Mentor website. </li>
 </ul>
+
+##
 
 ##  <p align="center">📫 Connect with me</p> 
 <p align="center" width="350px">
@@ -52,7 +54,9 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 
 </div>
 
-#  <p align="center">💻 Skills</p>
+##
+
+##  <p align="center">💻 Skills</p>
 
 <details>
 <summary> <b> Language  </b>
@@ -85,16 +89,18 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 </summary>
 </details>
 
-# 📊 GitHub Stats:
-
+# 
+<details> 
+<summary> <b>Github Trophies</b> </summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklynxchill" alt="franklynxchill" /></a> </p>
+</details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<details> 
+<summary> <b>Github Public Stats</b> </summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynxchill&show_icons=true&locale=en&layout=compact" alt="franklynxchill" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklynxchill&show_icons=true&locale=en" alt="franklynxchill" /></p>
+</details>
 
 <p align="center"><a href="https://www.buymeacoffee.com/franklynxcj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="franklynxcj" /></a></p><br><br>
