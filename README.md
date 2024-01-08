@@ -42,9 +42,16 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
   <a href="mailto:franklynxchill@gmail.com"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
-  <a href="https://www.frontendmentor.io/profile/franklynxchill">
+  <a href="https://www.frontendmentor.io/profile/franklynxchill" target="_blank">
   <img alt="frontendmentor" src="https://img.shields.io/badge/Frontendmento%20-badge%20?style=for-the-badge&logo=frontendmentor&color=%233F54A3">
   </a>
+  <a herf="https://www.linkedin.com/in/franklynxchill" target="_blank"> 
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-badge?style=for-the-badge&logo=linkedIn&color=%230A66C2">
+  </a>
+  <a herf="" target="_blank"> 
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-badge?style=for-the-badge&logo=Portfolio&color=%2334A7C1">
+  </a>
+
 </p>
 
 <div align="center">
@@ -66,7 +73,7 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 <details>
 <summary> <b>Front-End Development</b>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-badge?style=for-the-badge&logo=Bootstrap&logoColor=white%20&color=%237952B3)
 </summary>
 </details>
 
@@ -84,6 +91,7 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 ![Static Badge](https://img.shields.io/badge/GITHUB-badge?style=for-the-badge&logo=github&logoColor=white&color=%23181717)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VS%20CODE-badge?style=for-the-badge&logo=visualstudiocode&color=%23007ACC)
+![Static Badge](https://img.shields.io/badge/WordPress-badge?style=for-the-badge&logo=wordpress&color=%2321759B)
 </summary>
 </details>
 
