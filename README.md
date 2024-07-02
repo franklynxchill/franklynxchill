@@ -73,14 +73,24 @@ I encourage you to take a look at my work on Frontend Mentor, where I have compl
 <details>
 <summary> <b>Front-End Development</b>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-badge?style=for-the-badge&logo=Bootstrap&logoColor=white%20&color=%237952B3)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-badge?style=for-the-badge&logo=Bootstrap&logoColor=white%20&color=%237952B3) ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</summary>
+</details>
+
+<details>
+<summary> <b>Frameworks and Libraries</b>
+
+![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 </summary>
 </details>
 
 <details>
 <summary> <b> Cloud Hosting </b>
 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 </details>
 </summary>
 
